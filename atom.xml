@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayiawang.github.io</id>
     <title>JayiaWang</title>
-    <updated>2022-04-23T05:08:28.582Z</updated>
+    <updated>2022-05-06T06:35:26.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayiawang.github.io"/>
     <link rel="self" href="https://jayiawang.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://jayiawang.github.io/images/avatar.png</logo>
     <icon>https://jayiawang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, JayiaWang</rights>
+    <entry>
+        <title type="html"><![CDATA[【生产力笔记】让冥想融入深度工作]]></title>
+        <id>https://jayiawang.github.io/post/meditation-and-deepwork/</id>
+        <link href="https://jayiawang.github.io/post/meditation-and-deepwork/">
+        </link>
+        <updated>2022-05-06T06:20:33.000Z</updated>
+        <content type="html"><![CDATA[<p>在深度工作中，如果你能够提高一些核心技能，很多时候，可以帮助你事半功倍。</p>
+<p>这一期生产力笔记的主题是模仿冥想者进行工作。即<strong>认识到分心是正常的，而不是对自己生气，只需要让你的注意力放回到当下的事情上。</strong></p>
+<h3 id="stage-1-自然地将注意力移回去不必对完成工作保持过多压力">Stage 1: 自然地将注意力移回去，不必对完成工作保持过多压力</h3>
+<blockquote>
+<p><em>当我第一次产生想要放弃当下工作的冲动时，我只是提醒自己我在做什么，然后慢慢地地把注意力放回到任务上。</em></p>
+</blockquote>
+<p>这是深度工作大师Scott Young的一段自述。分心时，你如何对待自己很重要。过分苛责自己或生气，只会加剧你对不努力工作的沮丧或内疚感。</p>
+<p>另一方面，把你的注意力当作一个迷失的孩子，它只需要被温柔地引导回到当下的任务上，你会感觉好多了，你的注意力也会很快恢复。</p>
+<h3 id="stage-2-当你开始分心时跟下一刻的自己来场谈判">Stage 2: 当你开始分心时，跟下一刻的自己来场谈判</h3>
+<p>有时，当你开始分心时，你的注意力会不断偏离当下正在做的事情，这会让人感到沮丧。这时候，你可以跟下一刻的自己来场谈判。瞥一眼时钟或计时器，告诉自己，如果你仍然无法集中注意力，那在一段时间（比如5-10分钟）之后，你会给自己安排一个短暂的休息时间。这通常可以减少此时沮丧、分心的感觉。</p>
+<h3 id="stage-3-设置一个smart-break">Stage 3: 设置一个smart break</h3>
+<p>通常情况下，十分钟过后，你又回到了工作的流程中，此时此刻你不需要休息。但是，一段时间后，你发现自己仍然想要放弃。此时，你可以设置一个“smart break&quot;。巧妙的休息应该是放松的活动，但不太可能抓走你的注意力。显然，浏览网页、看短视频并不是一个巧妙的方式，因为这很容易带走你的注意力，并且很难在需要时切换回去工作。你可以试试这几个巧妙休息的方法，比如，起身散步5分钟，喝杯水，闭上眼睛坐着或做个俯卧撑。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原来嫁接的历史这么久]]></title>
         <id>https://jayiawang.github.io/post/the history of grafting/</id>
